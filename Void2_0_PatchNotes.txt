@@ -1,0 +1,7 @@
+Void Bridge 2.0 Patch Notes
+
+1. Increased Dialogue	
+	1.a. Dialogue is more spread out and not in huge blocks 
+2. Tiles in 2nd Room and 3rd Room changed and modified
+3. The 3rd room got changed completely for story purposes
+4. Added more tokens to collect
